@@ -7,7 +7,7 @@
 		/>
 	</a>
 	<br>
-	<h1>L V N A C Y Obsidian</h1>
+	<h1>L V N Λ C Y Obsidian</h1>
 	This org serves as a general repository for custom 
 	<a href='https://obsidian.md'>
 		Obsidian
